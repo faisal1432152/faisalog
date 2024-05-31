@@ -1,0 +1,11 @@
+{
+  "name": "faisal.js",
+  "version": "1.0.0",
+  "description": "best",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
